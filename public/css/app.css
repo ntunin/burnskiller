@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.navbar {
+  width: 100%;
+}
+
+.auth-row {
+  margin-top: 10em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.change-auth-type-row {
+  margin-top: 3em;
+}
+
+/*# sourceMappingURL=app.css.map */
